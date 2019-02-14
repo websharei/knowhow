@@ -14,7 +14,6 @@ assignees: ''
 2. Step 2
 3. ...
 
-
 ## 실제 동작
 * text or image
 
